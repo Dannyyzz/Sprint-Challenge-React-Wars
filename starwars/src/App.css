@@ -6,3 +6,26 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+
+.charcontainer {
+  width: 50%;
+  margin: auto;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-bottom: 3%;
+  background: burlywood;
+  border: 2px solid saddlebrown;
+}
+
+.character-card {
+  color: darkred;
+}
+
+.character-attr {
+  color: lightslategray;
+}
+
+ p {
+  padding-left: 10px;
+  text-align: center;
+ }
