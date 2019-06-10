@@ -1,12 +1,12 @@
 import React from 'react';
-import Charactorlist from './Charactors.js';
+import Charactors from './Charactors.js';
 
 import './StarWars.css';
 
 const Charactorlist = props => {
     return (
         <div classname = 'Charactorlist-Wrap'>
-             
+             Charactor List
         </div>
     );
 };
